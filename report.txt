@@ -1,0 +1,26 @@
+Mini Project: Parenthesis Checker Website
+Team member 1: A
+
+Description:
+
+*This project checks if a mathematical/programming expression has balanced parentheses, braces, and brackets.
+*It works with live checking as you type and includes a dark/light mode toggle.
+
+Objective:
+
+*The main objective of this project is to:
+*Help students or programmers quickly check their code or mathematical expressions for balanced parentheses.
+*Provide live checking as you type.
+*Include a dark/light mode toggle for better usability.
+
+Features:
+*Live checking while typing
+*Dark/Light mode toggle
+*Works offline in any browser
+*Uses HTML, CSS, and JavaScript
+
+How to Use:
+*Open 'index.html' in any browser.
+*Type an expression in the text box.
+*Result appears instantly below the text box.
+*Toggle dark/light mode using the button.
